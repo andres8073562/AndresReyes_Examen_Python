@@ -1,0 +1,21 @@
+{
+    "Tipo de servicio":[
+
+
+        {
+
+            "Plan":"Paquete de datos de  8gb con minutos eliminados por un mes",
+            "Precio":23000
+        },
+        {
+
+            "Plan":"Paquete de minutos al extarjero con 40 gb",
+            "Precio":56000
+        },
+        {
+
+            "Plan":"Paquete hogar de tv , lleva 230 canles en vivo incluyendo neflix,amazon prime, y 60 gb  de datos y 100 minutos al extranjero",
+            "Precio":80000
+        }
+    ]
+}

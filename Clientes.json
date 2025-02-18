@@ -1,0 +1,14 @@
+{
+    "Clientes": [
+        {
+            "id": 1,
+            "Nombre": "andres reyes",
+            "Apellido": "espinel",
+            "Direccion": "calle 20",
+            "Reportes": [
+                "hola",
+                "hola"
+            ]
+        }
+    ]
+}
